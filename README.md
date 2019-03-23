@@ -2,4 +2,4 @@
 
 还请看到的大神帮忙回答一下这个小白问题： Trilium是用JavaScript写的吗？！JavaScript还能做成exe在windows上使用？！
 
-具体[翻译内容](https://github.com/ffywhxf/trilium/wiki)，请看Wiki。
+具体翻译内容:[Trilium中文wiki](https://github.com/ffywhxf/trilium/wiki)。
